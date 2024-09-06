@@ -1,0 +1,13 @@
+echo "# Job_Portal" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/vjabhi000985/Job_Portal.git
+git push -u origin main
+
+https://github.com/vjabhi000985/Job_Portal.git
+
+git remote add origin https://github.com/vjabhi000985/Job_Portal.git
+git branch -M main
+git push -u origin main
